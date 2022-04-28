@@ -1,0 +1,8 @@
+name: OldrillionCore
+version: 1.0
+author: Papipomme
+main: fr.leleurch.oldrillioncore.Main
+commands:
+  grade:
+    description: Définir un grade.
+    permission: admin.use

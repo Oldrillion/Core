@@ -1,0 +1,7 @@
+MySQL:
+  url: jdbc:mysql://
+  address: localhost
+  default_database: oldrillion
+  user: root
+  port: 3306
+  password: ''
