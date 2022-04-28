@@ -2,7 +2,6 @@ package fr.leleurch.oldrillioncore.listeners;
 
 import fr.leleurch.oldrillioncore.player.PlayerData;
 import fr.leleurch.oldrillioncore.player.PlayerManager;
-import fr.leleurch.oldrillioncore.utils.enums.Ranks;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
